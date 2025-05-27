@@ -5,8 +5,8 @@
 <div>
   <!--Body-->
 ## :star: Language
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-      square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-  square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-      square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-  square&logo=JavaScript&logoColor=white"/>
 
   ## :dizzy: Github Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHE1210) 
