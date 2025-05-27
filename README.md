@@ -22,3 +22,9 @@
 
   ## :sparkles: Top Languages Card
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHE1210)
+
+  ## : :zap: What I’d like to share
+  #### : You’re doing better than you think.
+  #### : Even small progress is progress.
+  #### : It’s okay to rest. You’re still growing.
+  #### : Keep going. Brighter days are ahead.
