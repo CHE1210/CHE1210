@@ -4,7 +4,11 @@
 
 <div>
   <!--Body-->
-  
+
+  ## :yellow_heart: About ME
+  #### : As an ENFP, I’m a passionate free spirit who loves people, ideas, and spontaneous adventures!
+  #### : Music helps me heal and recharge.
+
   ### :star: Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
